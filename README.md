@@ -113,8 +113,6 @@ src/
 ---
 
 ## 📹 Demo Video
-
-WhatsApp Chatbot Backend (Spring Boot) | Webhook API + AWS EC2 Deployment
-Full Video Link -> https://youtu.be/xLYR1JE28cg
+Demo Video Link -> https://youtu.be/xLYR1JE28cg
 
 ---
